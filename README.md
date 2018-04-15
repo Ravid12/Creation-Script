@@ -1,6 +1,13 @@
 # Creation-Script
 An installation script to be run on new computers for personal use.
 
+## How to use
+1. Open Powershell in administrator mode
+2. Open Script
+3. Enter: ``` set-executionpolicy remotesigned ``` into powershell
+4. Run script
+
+
 ## Installer
 To edit / change installed applications, edit the following in the script: 
 
